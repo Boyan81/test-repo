@@ -1,3 +1,6 @@
 name=Ivan
 size-69
 email=vanka951@gmail.com
+
+name: Georgi;
+E-mail: popov937@abv.bg;
