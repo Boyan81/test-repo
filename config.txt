@@ -1,3 +1,3 @@
-name=Toni
+name=Ivan
 size-69
-email=toni20002@abv.bg
+email=vanka951@gmail.com
